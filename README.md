@@ -87,4 +87,11 @@ Kind Regards,
 Shira Reisner
 Passionate Software Developer
 
+![7 הצגת מספר החולים בכל יום בחודש האחרון](https://github.com/ShiraReisner/CoronManagementTest/assets/117013954/b38776f0-6622-4c31-b357-6460335e0f5b)
+![1  דף הבית- ניהול מאגר החולים](https://github.com/ShiraReisner/CoronManagementTest/assets/117013954/aedcffec-cc1f-4e9d-bc99-5f6e2e9109fa)
+![2  פרטי החברים בקופת החולים](https://github.com/ShiraReisner/CoronManagementTest/assets/117013954/6412889a-0e6e-4038-98fa-7a31fb8dae24)
+![3  הוספת לקוח חדש](https://github.com/ShiraReisner/CoronManagementTest/assets/117013954/473e7b6b-b963-41cc-955b-3b84921b32ca)
+![4  לקוח חדש התעדכן במערכת](https://github.com/ShiraReisner/CoronManagementTest/assets/117013954/d796e1ea-c2cc-426b-92f1-d5ad6bd76919)
+![5  הצגת מספר החברים בקופה שאינם מחוסנים](https://github.com/ShiraReisner/CoronManagementTest/assets/117013954/dede9c32-eee0-407b-8843-2811bd5048fb)
+![6  העלאת התמונה וקישורה ללקוח על פי מספר זהות](https://github.com/ShiraReisner/CoronManagementTest/assets/117013954/01735d6c-c561-471b-a6e2-c1b804745e90)
 
