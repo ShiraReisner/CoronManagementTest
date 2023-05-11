@@ -1,0 +1,17 @@
+C:\Users\User\Documents\שירה תכנות\פרויקט הדסים\CoronaManagement.DAL\bin\Debug\net6.0\CoronaManagement.DAL.deps.json
+C:\Users\User\Documents\שירה תכנות\פרויקט הדסים\CoronaManagement.DAL\bin\Debug\net6.0\CoronaManagement.DAL.runtimeconfig.json
+C:\Users\User\Documents\שירה תכנות\פרויקט הדסים\CoronaManagement.DAL\bin\Debug\net6.0\CoronaManagement.DAL.dll
+C:\Users\User\Documents\שירה תכנות\פרויקט הדסים\CoronaManagement.DAL\bin\Debug\net6.0\CoronaManagement.DAL.pdb
+C:\Users\User\Documents\שירה תכנות\פרויקט הדסים\CoronaManagement.DAL\bin\Debug\net6.0\Entities.dll
+C:\Users\User\Documents\שירה תכנות\פרויקט הדסים\CoronaManagement.DAL\bin\Debug\net6.0\Entities.pdb
+C:\Users\User\Documents\שירה תכנות\פרויקט הדסים\CoronaManagement.DAL\obj\Debug\net6.0\CoronaManagement.DAL.csproj.AssemblyReference.cache
+C:\Users\User\Documents\שירה תכנות\פרויקט הדסים\CoronaManagement.DAL\obj\Debug\net6.0\CoronaManagement.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\שירה תכנות\פרויקט הדסים\CoronaManagement.DAL\obj\Debug\net6.0\CoronaManagement.DAL.AssemblyInfoInputs.cache
+C:\Users\User\Documents\שירה תכנות\פרויקט הדסים\CoronaManagement.DAL\obj\Debug\net6.0\CoronaManagement.DAL.AssemblyInfo.cs
+C:\Users\User\Documents\שירה תכנות\פרויקט הדסים\CoronaManagement.DAL\obj\Debug\net6.0\CoronaManagement.DAL.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\שירה תכנות\פרויקט הדסים\CoronaManagement.DAL\obj\Debug\net6.0\CoronaManagement.DAL.csproj.CopyComplete
+C:\Users\User\Documents\שירה תכנות\פרויקט הדסים\CoronaManagement.DAL\obj\Debug\net6.0\CoronaManagement.DAL.dll
+C:\Users\User\Documents\שירה תכנות\פרויקט הדסים\CoronaManagement.DAL\obj\Debug\net6.0\refint\CoronaManagement.DAL.dll
+C:\Users\User\Documents\שירה תכנות\פרויקט הדסים\CoronaManagement.DAL\obj\Debug\net6.0\CoronaManagement.DAL.pdb
+C:\Users\User\Documents\שירה תכנות\פרויקט הדסים\CoronaManagement.DAL\obj\Debug\net6.0\CoronaManagement.DAL.genruntimeconfig.cache
+C:\Users\User\Documents\שירה תכנות\פרויקט הדסים\CoronaManagement.DAL\obj\Debug\net6.0\ref\CoronaManagement.DAL.dll
